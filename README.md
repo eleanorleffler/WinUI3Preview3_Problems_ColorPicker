@@ -12,7 +12,7 @@ ColorPicker from the XAML Controls is unable to load and crashes program in the 
 
 **Steps to reproduce the bug**
 
-1. Clone the [WinUI3 Preview 3 ColorPicker repository](https://github.com/eleanorleffler/WinUI3Preview3_Problems_ColorPicker).
+1. Clone the repository.
 2. Go to the ColorPickerWinUIPreview3 folder.
 3. Open the ColorPickerWinUIPreview3 solution in Visual Studio 2019 Preview.
 4. Build and run with Debug x64.
@@ -27,7 +27,11 @@ Build and run the ColorPickerUWP solution inside the TextBoxUWP folder to see ex
 
 **Screenshots**
 
+![ColorPickerCurrentBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_ColorPicker/blob/main/Screenshots/CurrentBehavior.PNG)
+
 Screenshot#1 - Current Behavior (Error Message)
+
+![ColorPickerExpectedBehavior](https://github.com/eleanorleffler/WinUI3Preview3_Problems_ColorPicker/blob/main/Screenshots/ExpectedBehavior.PNG)
 
 Screenshot#2 - Expected Behavior (ColorPicker)
 
